@@ -61,11 +61,6 @@ You need to configure your environment variables for the agent to connect to Liv
 LIVEKIT_URL=wss://your-project-url.livekit.cloud
 LIVEKIT_API_KEY=your_livekit_api_key
 LIVEKIT_API_SECRET=your_livekit_api_secret
-
-# AI Provider Keys
-OPENAI_API_KEY=your_openai_api_key
-ASSEMBLYAI_API_KEY=your_assemblyai_api_key
-CARTESIA_API_KEY=your_cartesia_api_key
 ```
 
 ### 4. Run the Development Server
